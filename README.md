@@ -60,7 +60,7 @@ I'm a **Full Stack Developer** who specializes in backend architecture, API desi
 
 <p align="center">
   <a href="https://sahihisab.in">
-    <img src="https://readme-image-slideshow.vercel.app/api?images=https://github.com/ProgAD/ProgAD/main/images/projects/sahihisab/photo1.jpg,https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/sahihisab/photo2.jpg,https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/sahihisab/photo3.jpg&width=750&height=400&interval=3000" alt="SahiHisab Screenshots" width="100%" />
+    <img src="https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/sahihisab/photo1.jpg" alt="SahiHisab Screenshot" width="100%" />
   </a>
 </p>
 
@@ -74,7 +74,7 @@ I'm a **Full Stack Developer** who specializes in backend architecture, API desi
 
 <p align="center">
   <a href="https://github.com/ProgAD/id-hackathon">
-    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/id-hackathon/photo1.jpg,https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/id-hackathon/photo2.jpg&width=750&height=400&interval=3000" alt="ID Hackathon Screenshots" width="100%" />
+    <img src="https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/id-hackathon/photo1.jpg" alt="ID Hackathon Screenshot" width="100%" />
   </a>
 </p>
 
@@ -88,7 +88,7 @@ I'm a **Full Stack Developer** who specializes in backend architecture, API desi
 
 <p align="center">
   <a href="https://github.com/ProgAD/Community-Pulse-Odoo-Team-84">
-    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/community-pulse/photo1.jpg,https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/community-pulse/photo2.jpg&width=750&height=400&interval=3000" alt="Community Pulse Screenshots" width="100%" />
+    <img src="https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/community-pulse/photo1.jpg" alt="Community Pulse Screenshot" width="100%" />
   </a>
 </p>
 
@@ -102,7 +102,7 @@ I'm a **Full Stack Developer** who specializes in backend architecture, API desi
 
 <p align="center">
   <a href="https://adityacodes.live/resume-builder">
-    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/resume-builder/photo1.jpg,https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/resume-builder/photo2.jpg&width=750&height=400&interval=3000" alt="Resume Builder Screenshots" width="100%" />
+    <img src="https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/resume-builder/photo1.jpg" alt="Resume Builder Screenshot" width="100%" />
   </a>
 </p>
 
@@ -116,7 +116,7 @@ I'm a **Full Stack Developer** who specializes in backend architecture, API desi
 
 <p align="center">
   <a href="https://github.com/ProgAD/Face_DetectTimer">
-    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/face-detect-timer/photo1.jpg,https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/face-detect-timer/photo2.jpg&width=750&height=400&interval=3000" alt="Face Detect Timer Screenshots" width="100%" />
+    <img src="https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/face-detect-timer/photo1.jpg" alt="Face Detect Timer Screenshot" width="100%" />
   </a>
 </p>
 
