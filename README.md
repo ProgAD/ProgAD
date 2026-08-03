@@ -1,14 +1,5 @@
-# Hi there, I'm Aditya Kumar 👋 🚀
-
-```
-  ____            _               _               
- |  _ \ _ __ ___ | |__   ___   __| | _____   ____ 
- | |_) | '__/ _ \| '_ \ / _ \ / _` |/ _ \ \ / /  |
- |  __/| | | (_) | | | | (_) | (_| |  __/\ V /   |
- |_|   |_|  \___/|_| |_|\___/ \__,_|\___| \_/    |
-                                                  
-  Full Stack Developer • Data Science @ IIT Madras
-```
+<h1 align="center">Hi there, I'm Aditya Kumar 👋🚀</h1>
+<h3 align="center">Full Stack Developer • Data Science @ IIT Madras</h3>
 
 <p align="center">
   <a href="https://adityacodes.live"><img src="https://img.shields.io/badge/Website-adityacodes.live-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -18,18 +9,22 @@
   <a href="https://sahihisab.in"><img src="https://img.shields.io/badge/Project-SahiHisab.in-00c853?style=for-the-badge&logo=lightning&logoColor=white" alt="SahiHisab" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ProgAD&style=for-the-badge&color=4f46e5" alt="Profile views" />
+</p>
+
 ---
 
 ### 💫 About Me
 
-I am a **Full Stack Developer** specializing in backend architecture, API design, and database-driven applications. Experienced in building production-grade systems using **PHP, Node.js, Flask, and MySQL**—ranging from secure authentication systems to payment integrations and workflow automation tools.
+I'm a **Full Stack Developer** who specializes in backend architecture, API design, and database-driven applications. I build production-grade systems with **PHP, Node.js, Flask, and MySQL** — everything from secure authentication systems to payment integrations and workflow automation tools.
 
-- 🎓 **Education:** Pursuing **BS in Data Science** at **IIT Madras** (2024 - Present)
+- 🎓 **Education:** Pursuing a **BS in Data Science** at **IIT Madras** (2024 – Present)
 - 💼 **Current Role:** Web Admin at **Sahara Welfare Society, IIT Madras**
-- 🛠️ **Core Focus:** Scalable Backend Architecture, RESTful API Design & Full-Stack Systems
-- 🌐 **Portfolio:** [adityacodes.live](https://adityacodes.live)
-- 🔗 **LinkedIn:** [linkedin.com/in/adityakr-dev](https://linkedin.com/in/adityakr-dev)
-- 📫 **Contact:** `aditya012official@gmail.com` | `+91 8102169859`
+- 🛠️ **Core Focus:** Scalable backend architecture, RESTful API design & full-stack systems
+- 🌱 **Currently Exploring:** Data science tooling and applied machine learning
+- ⚡ **Fun Fact:** I turned a photography studio's spreadsheet chaos into a full billing platform ([SahiHisab.in](https://sahihisab.in))
+- 📫 **Reach me at:** `aditya012official@gmail.com` | `+91 8102169859`
 
 ---
 
@@ -57,13 +52,12 @@ I am a **Full Stack Developer** specializing in backend architecture, API design
 ### 🚀 Featured Projects
 
 #### ⚡ [SahiHisab.in](https://sahihisab.in)
-> **Full-Stack Business Management System for Photography Studios**
+> Full-stack business management system for photography studios
 
-* **Key Features:** Billing & invoicing, expense management, team modules, payment gateway integration, and SMS/Email OTP authentication.
-* **Tech Stack:** `PHP`, `MySQL`, `JavaScript`, `HTML/CSS`, `REST APIs`
+* **Key Features:** Billing & invoicing, expense management, team modules, payment gateway integration, and SMS/email OTP authentication.
+* **Tech Stack:** `PHP` `MySQL` `JavaScript` `HTML/CSS` `REST APIs`
 * **Highlights:** Designed optimized database schemas, session management, and backend business logic for high uptime and smooth financial tracking.
 
-<!-- Dynamic Slideshow for SahiHisab -->
 <p align="center">
   <a href="https://sahihisab.in">
     <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/assets/main/sahihisab1.png,https://raw.githubusercontent.com/ProgAD/assets/main/sahihisab2.png,https://raw.githubusercontent.com/ProgAD/assets/main/sahihisab3.png&width=750&height=400&interval=3000" alt="SahiHisab Screenshots" width="100%" />
@@ -73,12 +67,11 @@ I am a **Full Stack Developer** specializing in backend architecture, API design
 ---
 
 #### 🏆 [ID Hackathon 2025 Management System](https://github.com/ProgAD/id-hackathon)
-> **Centralized Web Platform for Hackathon Operations**
+> Centralized web platform for hackathon operations
 
-* **Key Features:** Participant registrations, dynamic team formation, role-based access control (Admin vs. Participant), and real-time state management.
-* **Tech Stack:** `PHP`, `MySQL`, `JavaScript`, `HTML/CSS`, `REST APIs`
+* **Key Features:** Participant registration, dynamic team formation, role-based access control (admin vs. participant), and real-time state management.
+* **Tech Stack:** `PHP` `MySQL` `JavaScript` `HTML/CSS` `REST APIs`
 
-<!-- Dynamic Slideshow for ID Hackathon -->
 <p align="center">
   <a href="https://github.com/ProgAD/id-hackathon">
     <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/assets/main/hackathon1.png,https://raw.githubusercontent.com/ProgAD/assets/main/hackathon2.png&width=750&height=400&interval=3000" alt="ID Hackathon Screenshots" width="100%" />
@@ -88,12 +81,11 @@ I am a **Full Stack Developer** specializing in backend architecture, API design
 ---
 
 #### 🌐 [Community-Pulse](https://github.com/ProgAD/Community-Pulse-Odoo-Team-84)
-> **Community Event Discovery & Management Platform**
+> Community event discovery & management platform
 
 * **Key Features:** Simplified event submission, listing, and discovery UI built for seamless community interaction.
-* **Tech Stack:** `Node.js`, `MySQL`, `JavaScript`, `HTML/CSS`
+* **Tech Stack:** `Node.js` `MySQL` `JavaScript` `HTML/CSS`
 
-<!-- Dynamic Slideshow for Community Pulse -->
 <p align="center">
   <a href="https://github.com/ProgAD/Community-Pulse-Odoo-Team-84">
     <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/assets/main/community1.png,https://raw.githubusercontent.com/ProgAD/assets/main/community2.png&width=750&height=400&interval=3000" alt="Community Pulse Screenshots" width="100%" />
@@ -103,12 +95,11 @@ I am a **Full Stack Developer** specializing in backend architecture, API design
 ---
 
 #### 📄 [Interactive Resume Builder](https://adityacodes.live/resume-builder)
-> **Dynamic Web-Based Resume Generator**
+> Dynamic web-based resume generator
 
-* **Key Features:** Guided step-by-step workflow with real-time dynamic form handling and document creation.
-* **Tech Stack:** `PHP`, `MySQL`, `JavaScript`, `HTML/CSS`
+* **Key Features:** Guided step-by-step workflow with real-time form handling and document generation.
+* **Tech Stack:** `PHP` `MySQL` `JavaScript` `HTML/CSS`
 
-<!-- Dynamic Slideshow for Resume Builder -->
 <p align="center">
   <a href="https://adityacodes.live/resume-builder">
     <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/assets/main/resume1.png,https://raw.githubusercontent.com/ProgAD/assets/main/resume2.png&width=750&height=400&interval=3000" alt="Resume Builder Screenshots" width="100%" />
@@ -118,12 +109,11 @@ I am a **Full Stack Developer** specializing in backend architecture, API design
 ---
 
 #### 👁️ [Face Detect Timer](https://github.com/ProgAD/Face_DetectTimer)
-> **Computer Vision-Powered Productivity Tracker**
+> Computer vision-powered productivity tracker
 
-* **Key Features:** Work timer that automatically runs only when the user's presence is detected in front of the screen.
-* **Tech Stack:** `Python`, `OpenCV`
+* **Key Features:** Work timer that runs automatically only when the user's presence is detected in front of the screen.
+* **Tech Stack:** `Python` `OpenCV`
 
-<!-- Dynamic Slideshow for Face Detect Timer -->
 <p align="center">
   <a href="https://github.com/ProgAD/Face_DetectTimer">
     <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/assets/main/facedetect1.png,https://raw.githubusercontent.com/ProgAD/assets/main/facedetect2.png&width=750&height=400&interval=3000" alt="Face Detect Timer Screenshots" width="100%" />
@@ -134,19 +124,17 @@ I am a **Full Stack Developer** specializing in backend architecture, API design
 
 ### 💼 Professional Experience
 
-```
-📅 Apr 2026 – Present
-🏢 Web Admin — Sahara Welfare Society, IIT Madras
-  • Managing website reliability, uptime, and performance optimization.
-  • Implementing features, critical bug fixes, and responsive UI enhancements.
-  • Overseeing content deployment for official events and campus announcements.
+**Web Admin — Sahara Welfare Society, IIT Madras**
+`Apr 2026 – Present`
+- Managing website reliability, uptime, and performance optimization.
+- Implementing new features, critical bug fixes, and responsive UI enhancements.
+- Overseeing content deployment for official events and campus announcements.
 
-📅 Internship (6 Months)
-🏢 Full Stack Developer — Starwebx Technologies Pvt. Ltd., Bhagalpur
-  • Built production features for web applications using PHP, MySQL, and JavaScript.
-  • Engineered RESTful API endpoints and robust database schemas.
-  • Collaborated with cross-functional teams via Git/GitHub version control workflows.
-```
+**Full Stack Developer (Intern) — Starwebx Technologies Pvt. Ltd., Bhagalpur**
+`6-Month Internship`
+- Built production features for web applications using PHP, MySQL, and JavaScript.
+- Engineered RESTful API endpoints and robust database schemas.
+- Collaborated with cross-functional teams using Git/GitHub version control workflows.
 
 ---
 
@@ -155,6 +143,10 @@ I am a **Full Stack Developer** specializing in backend architecture, API design
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ProgAD&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgAD&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgAD&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
