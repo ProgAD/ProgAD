@@ -11,8 +11,9 @@
 ```
 
 <p align="center">
-  <a href="https://adityawork.live"><img src="https://img.shields.io/badge/Website-adityawork.live-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://adityacodes.live"><img src="https://img.shields.io/badge/Website-adityacodes.live-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/ProgAD"><img src="https://img.shields.io/badge/GitHub-ProgAD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/adityakr-dev"><img src="https://img.shields.io/badge/LinkedIn-adityakr--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aditya012official@gmail.com"><img src="https://img.shields.io/badge/Email-aditya012official%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://sahihisab.in"><img src="https://img.shields.io/badge/Project-SahiHisab.in-00c853?style=for-the-badge&logo=lightning&logoColor=white" alt="SahiHisab" /></a>
 </p>
@@ -26,20 +27,30 @@ I am a **Full Stack Developer** specializing in backend architecture, API design
 - 🎓 **Education:** Pursuing **BS in Data Science** at **IIT Madras** (2024 - Present)
 - 💼 **Current Role:** Web Admin at **Sahara Welfare Society, IIT Madras**
 - 🛠️ **Core Focus:** Scalable Backend Architecture, RESTful API Design & Full-Stack Systems
-- 🌐 **Portfolio:** [adityawork.live](https://adityawork.live)
+- 🌐 **Portfolio:** [adityacodes.live](https://adityacodes.live)
+- 🔗 **LinkedIn:** [linkedin.com/in/adityakr-dev](https://linkedin.com/in/adityakr-dev)
 - 📫 **Contact:** `aditya012official@gmail.com` | `+91 8102169859`
 
 ---
 
 ### 💻 Tech Stack & Toolkit
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `PHP` `JavaScript (ES6+)` `Python` `C` `HTML5` `CSS3` |
-| **Backend & Frameworks** | `Node.js` `Flask` `PHP Native` `RESTful APIs` |
-| **Databases** | `MySQL` (Schema Design, Optimization, CRUD) |
-| **Tools & Version Control** | `Git` `GitHub` `OpenCV` `Linux` |
-| **Integrations** | Payment Gateways, SMS/Email OTP Auth, Session Management |
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 ---
 
@@ -47,37 +58,77 @@ I am a **Full Stack Developer** specializing in backend architecture, API design
 
 #### ⚡ [SahiHisab.in](https://sahihisab.in)
 > **Full-Stack Business Management System for Photography Studios**
+
 * **Key Features:** Billing & invoicing, expense management, team modules, payment gateway integration, and SMS/Email OTP authentication.
 * **Tech Stack:** `PHP`, `MySQL`, `JavaScript`, `HTML/CSS`, `REST APIs`
 * **Highlights:** Designed optimized database schemas, session management, and backend business logic for high uptime and smooth financial tracking.
+
+<!-- Dynamic Slideshow for SahiHisab -->
+<p align="center">
+  <a href="https://sahihisab.in">
+    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/assets/main/sahihisab1.png,https://raw.githubusercontent.com/ProgAD/assets/main/sahihisab2.png,https://raw.githubusercontent.com/ProgAD/assets/main/sahihisab3.png&width=750&height=400&interval=3000" alt="SahiHisab Screenshots" width="100%" />
+  </a>
+</p>
 
 ---
 
 #### 🏆 [ID Hackathon 2025 Management System](https://github.com/ProgAD/id-hackathon)
 > **Centralized Web Platform for Hackathon Operations**
+
 * **Key Features:** Participant registrations, dynamic team formation, role-based access control (Admin vs. Participant), and real-time state management.
 * **Tech Stack:** `PHP`, `MySQL`, `JavaScript`, `HTML/CSS`, `REST APIs`
+
+<!-- Dynamic Slideshow for ID Hackathon -->
+<p align="center">
+  <a href="https://github.com/ProgAD/id-hackathon">
+    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/assets/main/hackathon1.png,https://raw.githubusercontent.com/ProgAD/assets/main/hackathon2.png&width=750&height=400&interval=3000" alt="ID Hackathon Screenshots" width="100%" />
+  </a>
+</p>
 
 ---
 
 #### 🌐 [Community-Pulse](https://github.com/ProgAD/Community-Pulse-Odoo-Team-84)
 > **Community Event Discovery & Management Platform**
+
 * **Key Features:** Simplified event submission, listing, and discovery UI built for seamless community interaction.
 * **Tech Stack:** `Node.js`, `MySQL`, `JavaScript`, `HTML/CSS`
 
+<!-- Dynamic Slideshow for Community Pulse -->
+<p align="center">
+  <a href="https://github.com/ProgAD/Community-Pulse-Odoo-Team-84">
+    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/assets/main/community1.png,https://raw.githubusercontent.com/ProgAD/assets/main/community2.png&width=750&height=400&interval=3000" alt="Community Pulse Screenshots" width="100%" />
+  </a>
+</p>
+
 ---
 
-#### 📄 [Interactive Resume Builder](https://adityawork.live/resume-builder)
+#### 📄 [Interactive Resume Builder](https://adityacodes.live/resume-builder)
 > **Dynamic Web-Based Resume Generator**
+
 * **Key Features:** Guided step-by-step workflow with real-time dynamic form handling and document creation.
 * **Tech Stack:** `PHP`, `MySQL`, `JavaScript`, `HTML/CSS`
+
+<!-- Dynamic Slideshow for Resume Builder -->
+<p align="center">
+  <a href="https://adityacodes.live/resume-builder">
+    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/assets/main/resume1.png,https://raw.githubusercontent.com/ProgAD/assets/main/resume2.png&width=750&height=400&interval=3000" alt="Resume Builder Screenshots" width="100%" />
+  </a>
+</p>
 
 ---
 
 #### 👁️ [Face Detect Timer](https://github.com/ProgAD/Face_DetectTimer)
 > **Computer Vision-Powered Productivity Tracker**
+
 * **Key Features:** Work timer that automatically runs only when the user's presence is detected in front of the screen.
 * **Tech Stack:** `Python`, `OpenCV`
+
+<!-- Dynamic Slideshow for Face Detect Timer -->
+<p align="center">
+  <a href="https://github.com/ProgAD/Face_DetectTimer">
+    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/assets/main/facedetect1.png,https://raw.githubusercontent.com/ProgAD/assets/main/facedetect2.png&width=750&height=400&interval=3000" alt="Face Detect Timer Screenshots" width="100%" />
+  </a>
+</p>
 
 ---
 
@@ -109,5 +160,5 @@ I am a **Full Stack Developer** specializing in backend architecture, API design
 ---
 
 <p align="center">
-  <i>Designed with ❤️ by Aditya Kumar • <a href="https://adityawork.live">adityawork.live</a></i>
+  <i>Designed with ❤️ by Aditya Kumar • <a href="https://adityacodes.live">adityacodes.live</a></i>
 </p>
