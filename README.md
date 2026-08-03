@@ -60,7 +60,7 @@ I'm a **Full Stack Developer** who specializes in backend architecture, API desi
 
 <p align="center">
   <a href="https://sahihisab.in">
-    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/sahihisab/photo1.jpg,https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/sahihisab/photo2.jpg,https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/sahihisab/photo3.jpg&width=750&height=400&interval=3000" alt="SahiHisab Screenshots" width="100%" />
+    <img src="https://readme-image-slideshow.vercel.app/api?images=https://github.com/ProgAD/ProgAD/main/images/projects/sahihisab/photo1.jpg,https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/sahihisab/photo2.jpg,https://raw.githubusercontent.com/ProgAD/ProgAD/main/images/projects/sahihisab/photo3.jpg&width=750&height=400&interval=3000" alt="SahiHisab Screenshots" width="100%" />
   </a>
 </p>
 
