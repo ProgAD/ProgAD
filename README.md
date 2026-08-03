@@ -60,7 +60,7 @@ I'm a **Full Stack Developer** who specializes in backend architecture, API desi
 
 <p align="center">
   <a href="https://sahihisab.in">
-    <img src="https://readme-image-slideshow.vercel.app/api?images=[https://raw.githubusercontent.com/ProgAD/assets/main/sahihisab1.png](https://github.com/ProgAD/ProgAD/blob/main/images/projects/sahihisab/photo1.jpg),https://raw.githubusercontent.com/ProgAD/assets/main/sahihisab2.png,https://raw.githubusercontent.com/ProgAD/assets/main/sahihisab3.png&width=750&height=400&interval=3000" alt="SahiHisab Screenshots" width="100%" />
+    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/images/main/projects/sahihisab/photo1.jpg,https://raw.githubusercontent.com/ProgAD/images/main/projects/sahihisab/photo2.jpg,https://raw.githubusercontent.com/ProgAD/images/main/projects/sahihisab/photo3.jpg&width=750&height=400&interval=3000" alt="SahiHisab Screenshots" width="100%" />
   </a>
 </p>
 
@@ -74,7 +74,7 @@ I'm a **Full Stack Developer** who specializes in backend architecture, API desi
 
 <p align="center">
   <a href="https://github.com/ProgAD/id-hackathon">
-    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/assets/main/hackathon1.png,https://raw.githubusercontent.com/ProgAD/assets/main/hackathon2.png&width=750&height=400&interval=3000" alt="ID Hackathon Screenshots" width="100%" />
+    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/images/main/projects/id-hackathon/photo1.jpg,https://raw.githubusercontent.com/ProgAD/images/main/projects/id-hackathon/photo2.jpg&width=750&height=400&interval=3000" alt="ID Hackathon Screenshots" width="100%" />
   </a>
 </p>
 
@@ -88,7 +88,7 @@ I'm a **Full Stack Developer** who specializes in backend architecture, API desi
 
 <p align="center">
   <a href="https://github.com/ProgAD/Community-Pulse-Odoo-Team-84">
-    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/assets/main/community1.png,https://raw.githubusercontent.com/ProgAD/assets/main/community2.png&width=750&height=400&interval=3000" alt="Community Pulse Screenshots" width="100%" />
+    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/images/main/projects/community-pulse/photo1.jpg,https://raw.githubusercontent.com/ProgAD/images/main/projects/community-pulse/photo2.jpg&width=750&height=400&interval=3000" alt="Community Pulse Screenshots" width="100%" />
   </a>
 </p>
 
@@ -102,7 +102,7 @@ I'm a **Full Stack Developer** who specializes in backend architecture, API desi
 
 <p align="center">
   <a href="https://adityacodes.live/resume-builder">
-    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/assets/main/resume1.png,https://raw.githubusercontent.com/ProgAD/assets/main/resume2.png&width=750&height=400&interval=3000" alt="Resume Builder Screenshots" width="100%" />
+    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/images/main/projects/resume-builder/photo1.jpg,https://raw.githubusercontent.com/ProgAD/images/main/projects/resume-builder/photo2.jpg&width=750&height=400&interval=3000" alt="Resume Builder Screenshots" width="100%" />
   </a>
 </p>
 
@@ -116,7 +116,7 @@ I'm a **Full Stack Developer** who specializes in backend architecture, API desi
 
 <p align="center">
   <a href="https://github.com/ProgAD/Face_DetectTimer">
-    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/assets/main/facedetect1.png,https://raw.githubusercontent.com/ProgAD/assets/main/facedetect2.png&width=750&height=400&interval=3000" alt="Face Detect Timer Screenshots" width="100%" />
+    <img src="https://readme-image-slideshow.vercel.app/api?images=https://raw.githubusercontent.com/ProgAD/images/main/projects/face-detect-timer/photo1.jpg,https://raw.githubusercontent.com/ProgAD/images/main/projects/face-detect-timer/photo2.jpg&width=750&height=400&interval=3000" alt="Face Detect Timer Screenshots" width="100%" />
   </a>
 </p>
 
