@@ -36,22 +36,20 @@ I'm a **Full Stack Developer** who specializes in backend architecture, API desi
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br>C</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3</td>
-  </tr>
-  <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br>Flask</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" /><br>MySQL</td>
+  </tr>
+  <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /><br>OpenCV</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" /><br>GitHub</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br>Django</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br>NumPy</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br>Pandas</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" /><br>Scikit-learn</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" /><br>Anaconda</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br>Vercel</td>
   </tr>
 </table>
 
